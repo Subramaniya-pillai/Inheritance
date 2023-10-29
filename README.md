@@ -67,7 +67,7 @@ s.display();
 ```
 
 ## Output:
-![](./1.png)
+![](./1.png.png)
 
 ## Result:
 Thus C# program to print messages using hierarchical inheritance is written and executed sucessfully.
